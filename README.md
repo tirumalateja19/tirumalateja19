@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Tirumala Teja
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Full-Stack+Developer;Java+%7C+React+%7C+Cloud;Problem+Solver+%7C+DSA+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Tirumala+Teja;Full-Stack+Developer;Java+%7C+React+%7C+Cloud;Problem+Solver+%7C+DSA+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 ---
 
@@ -55,9 +53,9 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+<!--   <a href="https://discord.com/users/yourdiscordid" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" />
-  </a>
+  </a> -->
   <a href="https://github.com/tirumalateja19" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
