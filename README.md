@@ -6,7 +6,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tirumalateja19&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Spring%20Boot%20%7C%20Docker%20%7C%20AWS-00BFFF?style=for-the-badge&logo=rocket&logoColor=white)
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Spring%20%7C%20Spring%20Boot-00BFFF?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
 
@@ -103,7 +103,6 @@
 </div>
 
 ---
-
 ## 🚀 **Featured Projects**
 
 <div align="center">
@@ -115,12 +114,12 @@
 ### 🍔 **Grab Now**
 **React + Tailwind Food Ordering App**
 
-- 🔥 Swiggy API Integration
-- 📱 Responsive Design
-- ⚡ Fast & Intuitive UI
-- 🛒 Complete Ordering System
+- 🔥 Swiggy API Integration  
+- 📱 Responsive Design  
+- ⚡ Fast & Intuitive UI  
+- 🛒 Complete Ordering System  
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirumalateja19/GrabNow)
+🔗 [Repository](https://github.com/tirumalateja19/GrabNow)
 
 </td>
 <td width="50%">
@@ -128,12 +127,13 @@
 ### 📂 **Visionary Vault**
 **Firebase-Powered Task Manager**
 
-- 🔐 Role-Based Authentication
-- 📊 CRUD Operations
-- 🔄 Real-time Updates
-- 💾 Cloud Storage
+- 🔐 Role-Based Authentication  
+- 📊 CRUD Operations  
+- 🔄 Real-time Updates  
+- 💾 Cloud Storage  
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirumalateja19/VisionaryVault)
+🔗 [Repository](https://github.com/tirumalateja19/VisionaryVault)  
+🌐 [Live Demo](https://progress-blog-dab20.web.app/)
 
 </td>
 </tr>
@@ -141,7 +141,6 @@
 
 </div>
 
----
 
 ## 📊 **GitHub Analytics**
 
@@ -206,7 +205,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/tirumalateja19" target="_blank">
+<a href="https://instagram.com/tirumala_teja_04" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
 </a>
 
