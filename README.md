@@ -28,6 +28,8 @@
 ---
 
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=tirumalateja19&color=blue&style=flat-square)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tirumalateja19&show_icons=true&theme=github_dark" height="165" />
@@ -48,14 +50,15 @@
   </a>
 </p>
 
+[![Codeolio Profile](https://img.shields.io/badge/Portfolio-Codeolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://codolio.com/profile/teja19)
+
+
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-<!--   <a href="https://discord.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" />
-  </a> -->
+
   <a href="https://github.com/tirumalateja19" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
