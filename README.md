@@ -1,12 +1,11 @@
 <div align="center">
-
-# 👋 Welcome to My Digital Universe
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=✨+Crafting+Digital+Experiences+✨;🚀+Code+Create+Innovate+🚀;💡+Building+Tomorrow's+Solutions+Today+💡;🎯+Turning+Ideas+Into+Reality+🎯;⚡+Full-Stack+Architect+%26+Problem+Solver+⚡;🌟+Where+Logic+Meets+Creativity+🌟)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=✨+Hello+%26+Welcome+✨;+I'am+TirumalaTeja+✨;+Turning+Ideas+Into+Reality+🎯;⚡+Full-Stack+Architect+%26+Problem+Solver;)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tirumalateja19&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Spring%20%7C%20Spring%20Boot-00BFFF?style=for-the-badge&logo=spring&logoColor=white)
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Spring%20%7C%20Node.js-00BFFF?style=for-the-badge&logo=spring&logoColor=white)
+
 
 </div>
 
@@ -216,9 +215,7 @@
 
 </div>
 
----
-
-<div align="center">
+<!-- <div align="center">
 
 ### 💫 **"First, solve the problem. Then, write the code."** 💫
 
@@ -227,7 +224,7 @@
 **📚 Always learning and growing**  
 **🌟 Open to collaboration and new opportunities**
 
----
+--- -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
