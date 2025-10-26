@@ -11,97 +11,24 @@
 
 ---
 
-## 🛠️ **My Tech Arsenal**
+
+## 🛠️ Tech Stack  
 
 <div align="center">
 
-### **Languages & Frameworks**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><strong>Java</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br><strong>CSS3</strong>
-</td>
-</tr>
-</table>
-
-### **Styling & UI**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-<br><strong>Tailwind</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
-<br><strong>Material UI</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br><strong>Bootstrap</strong>
-</td>
-</tr>
-</table>
-
-### **Database & Backend**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br><strong>Firebase</strong>
-</td>
-</tr>
-</table>
-
-### **Tools & Development**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
-<br><strong>IntelliJ</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-</tr>
-</table>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,react,redux,tailwind,materialui,html,spring,nodejs,mysql,mongodb,firebase,git,github,vscode&perline=5" />
+</a>
+<br>
+<img src="https://skillicons.dev/icons?i=idea,eclipse,postman&perline=3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" style="margin-left:6px;"/>
+<img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" width="48" height="48" alt="GSAP" title="GSAP (GreenSock Animation Platform)" style="margin-left:6px;"/>
 
 </div>
 
+
 ---
+
 ## 🚀 **Featured Projects**
 
 <div align="center">
@@ -180,52 +107,32 @@
 
 ---
 
-## 🌐 **Let's Connect & Collaborate**
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=60&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/> -->
+## 🌐 Connect with Me  
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=60&section=header" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=💬+Let's+Build+Something+Amazing+Together!;🤝+Open+to+Collaborations+%26+Opportunities;📧+Always+Happy+to+Connect!;🌟+Your+Next+Developer+Partner)](https://git.io/typing-svg)
-
-<div align="center">
-
-### 🌐 Let's Connect  
-
-<a href="https://github.com/tirumalateja19" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+<a href="https://discord.com/users/teja19_04">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Discord" title="Join me on Discord"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:tirumalateja.jampani@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50" height="50" alt="Gmail"/>
+
+<a href="https://github.com/tirumalateja19">
+  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" title="Visit my GitHub"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tirumala-teja-19j04" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+
+<a href="mailto:tirumalateja.jampani@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" title="Email me"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/tirumala_teja_04" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
+
+<a href="https://www.instagram.com/tirumala_teja_04">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Instagram" title="Follow on Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tirumala-teja-19j04">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn" title="Connect on LinkedIn"/>
 </a>
 
 </div>
 
 
-<br>
-
-</div>
-
-<!-- <div align="center">
-
-### 💫 **"First, solve the problem. Then, write the code."** 💫
-
-**🚀 Passionate about building scalable applications**  
-**🧩 Love solving complex problems**  
-**📚 Always learning and growing**  
-**🌟 Open to collaboration and new opportunities**
-
---- -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-
-</div>
