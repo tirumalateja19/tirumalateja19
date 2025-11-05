@@ -94,6 +94,8 @@
 ## 🧩 **Coding Journey**
 
 <div align="center">
+  
+### **This is our journey and the only one we shall compare to is our past self**
 
 ### **LeetCode Progress**
 <a href="https://leetcode.com/u/Teja_Tirumala/">
