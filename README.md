@@ -1,6 +1,8 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=✨+Hello+%26+Welcome+✨;+I'am+TirumalaTeja+✨;+Turning+Ideas+Into+Reality+🎯;⚡+Full-Stack+Architect+%26+Problem+Solver;)](https://git.io/typing-svg)
+  <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/1963ec0e-f656-4720-8f5d-d83c72f48a70" />
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=✨+Hello+%26+Welcome+✨;+I'am+TirumalaTeja+✨;⚡+Full-Stack+Architect+%26+Problem+Solver;)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tirumalateja19&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -11,16 +13,25 @@
 
 ---
 
+## About Me
+
+🖥️ **Full Stack Developer — React | Node.js | Express | MongoDB**  
+🌱 Continuously exploring modern tools & technologies  
+🚀 Transforming ideas into fast, scalable applications  
+🌐 Passionate about building end-to-end web solutions  
+🛠️ Strong in CS fundamentals & writing clean, maintainable software  
+
+---
 
 ## 🛠️ Tech Stack  
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,react,redux,tailwind,materialui,html,spring,nodejs,mysql,mongodb,firebase,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,redux,html,tailwind,materialui,mysql,mongodb,git,github,postman,firebase,spring&perline=5" />
 </a>
 <br>
-<img src="https://skillicons.dev/icons?i=idea,eclipse,postman&perline=3" />
+<img src="https://skillicons.dev/icons?i=idea,eclipse,vscode&perline=3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" style="margin-left:6px;"/>
 <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" width="48" height="48" alt="GSAP" title="GSAP (GreenSock Animation Platform)" style="margin-left:6px;"/>
 
@@ -28,45 +39,6 @@
 
 
 ---
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🍔 **Grab Now**
-**React + Tailwind Food Ordering App**
-
-- 🔥 Swiggy API Integration  
-- 📱 Responsive Design  
-- ⚡ Fast & Intuitive UI  
-- 🛒 Complete Ordering System  
-
-🔗 [Repository](https://github.com/tirumalateja19/GrabNow)
-
-</td>
-<td width="50%">
-
-### 📂 **Visionary Vault**
-**Firebase-Powered Task Manager**
-
-- 🔐 Role-Based Authentication  
-- 📊 CRUD Operations  
-- 🔄 Real-time Updates  
-- 💾 Cloud Storage  
-
-🔗 [Repository](https://github.com/tirumalateja19/VisionaryVault)  
-🌐 [Live Demo](https://progress-blog-dab20.web.app/)
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 ## 📊 **GitHub Analytics**
 
