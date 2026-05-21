@@ -2,7 +2,7 @@
   <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/1963ec0e-f656-4720-8f5d-d83c72f48a70" />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=✨+Hello+%26+Welcome+✨;+I'am+TirumalaTeja+✨;⚡+Full-Stack+Architect+%26+Problem+Solver;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=✨+Hello+%26+Welcome+✨;I'm+TirumalaTeja+✨;Full-Stack+Developer+%7C+Quick+Learner;I+build+things+that+actually+ship+🚀)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tirumalateja19&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -46,17 +46,17 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tirumalateja19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirumalateja19&show_icons=true&theme=default&hide_border=true" height="180em" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tirumalateja19&show_icons=true&theme=default&hide_border=true" height="180" alt="GitHub Stats" /> -->
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tirumalateja19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirumalateja19&layout=compact&theme=default&hide_border=true" height="180em" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirumalateja19&layout=compact&theme=default&hide_border=true" height="180" alt="Top Languages" /> -->
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tirumalateja19&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=ffffff">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirumalateja19&theme=default&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirumalateja19&theme=default&hide_border=true" height="180" alt="GitHub Streak" />
 </picture>
 
 </div>
@@ -75,7 +75,8 @@
 </a>
 
 ### **Portfolio**
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Codolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://codolio.com/profile/teja19)
+[![Codolio](https://img.shields.io/badge/Codolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://codolio.com/profile/teja19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://tirumalateja19.netlify.app/)
 
 </div>
 
@@ -103,7 +104,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Instagram" title="Follow on Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tirumala-teja-19j04">
+<a href="https://www.linkedin.com/in/tirumalateja19">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn" title="Connect on LinkedIn"/>
 </a>
 
