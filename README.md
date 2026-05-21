@@ -6,7 +6,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tirumalateja19&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Spring%20%7C%20Node.js-00BFFF?style=for-the-badge&logo=spring&logoColor=white)
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-GenAi%20%7C%20Spring-00BFFF?style=for-the-badge&logo=spring&logoColor=white)
 
 
 </div>
