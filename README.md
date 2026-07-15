@@ -6,7 +6,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tirumalateja19&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-GenAi%20%7C%20Spring-00BFFF?style=for-the-badge&logo=spring&logoColor=white)
+<!-- ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-GenAi%20%7C%20Spring-00BFFF?style=for-the-badge&logo=spring&logoColor=white) -->
 
 
 </div>
@@ -70,7 +70,7 @@
 ### **This is our journey and the only one we shall compare to is our past self**
 
 ### **LeetCode Progress**
-<a href="https://leetcode.com/u/Teja_Tirumala/">
+<a href="https://leetcode.com/u/tirumalateja19/">
 <img src="https://leetcard.jacoblin.cool/Teja_Tirumala?theme=dark&font=Karma&ext=streak" alt="LeetCode Stats"/>
 </a>
 
